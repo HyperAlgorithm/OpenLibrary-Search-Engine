@@ -52,3 +52,8 @@ Guidance :
 
 The code has been commented for easier understanding
 
+Requirements:
+
+1. streamlit
+2. IPython
+
