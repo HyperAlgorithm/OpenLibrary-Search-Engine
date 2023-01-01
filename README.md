@@ -26,7 +26,7 @@ Clone this repository with git clone command & run the following commands to pre
 
 4. Python3 -m streamlit run app.py
 
-Now the web app should be running in the localhost on port 8051 i.e., http://localhost:8051 visit this and search for your desired books. 
+Now the web app should be running in the localhost on port 8051 i.e., http://localhost:8501 visit this and search for your desired books. 
 
 This is also publicly hosted at : http://35.188.140.73:8501/
 
